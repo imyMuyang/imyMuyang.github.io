@@ -2,7 +2,7 @@
 
 This is a website about coastwind(imysoft).
 
-You can download my priject on it.
+You can download my projects on it.
 
 ### Markdown
 
