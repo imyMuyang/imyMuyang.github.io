@@ -1,32 +1,6 @@
 ## 欢迎来到imy沐阳的个人主页qwq
 
-This is a website about coastwind(imysoft).
-
-You can download my projects on it.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+这是imy沐阳的一大堆仓库~
 
 ### Jekyll Themes
 
