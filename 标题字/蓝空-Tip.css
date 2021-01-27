@@ -1,0 +1,54 @@
+.error,.warn{
+  position: relative;
+  display: block;
+  height: 50px;
+  border-radius: 5px;
+  box-shadow:  2px 2px 20px #d3d5d9;
+  margin-top: 25px;
+}
+
+.error{
+  background-color: #ff9090;
+}
+
+.warn{
+  background-color: #ffaf6c;
+}
+
+.error > p,.warn > p{
+  position: relative;
+  margin: 0;
+  display: block;
+  text-align: center;
+  color: white;
+  top: 25%;
+  font-size: 1.2em;
+}
+
+.dict{
+  display: block;
+  height: 100px;
+  border-radius: 5px;
+  box-shadow:  2px 2px 20px #d3d5d9;
+  margin-top: 20px;
+  background-color: #6cc1ff;
+}
+
+.dictname,.dictexplain{
+  position: relative;
+  margin: 0;
+  display: block;
+  margin-left: 20px;
+  color: white;
+}
+
+.dictname{
+  font-size: 1.8em;
+  top: 10px;
+}
+
+.dictexplain{
+  font-size: 1.3em;
+  top: 15px;
+}
+
